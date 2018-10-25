@@ -1,3 +1,3 @@
 # TestMerging
 
-Hello there.
+GOODBYE there.
